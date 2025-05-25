@@ -1,6 +1,8 @@
-- 🎮 Salve! Me chamo Lucas, tenho 18 anos! Decidi entrar para essa área após perceber que não seria possível cursar engenharia. Brincadeiras a parte, sempre achei essa área de desenvolvimento muito interessante no qual ja venho tendo contato desde o ensino médio, criando projetos de __IoT__ com a queridissima e amada linguagem __Python__ e brincando com Microcontroladores utilizando o famoso __Arduino__ programando em __C++__.
+# 🏆 Um pouco sobre mim!
 
-- 🎓 Sou técnico em Automação Industrial na ETEC de Embu e  atualmente faço técnico em Internet das Coisas no SENAC.
+- 🎮 Salve! Me chamo Lucas, tenho 18 anos! Decidi entrar para essa área após perceber que não seria possível cursar engenharia visto meu limite cognitivo. Brincadeiras a parte, sempre achei essa área de desenvolvimento muito interessante no qual ja venho tendo contato desde o ensino médio, criando projetos de __IoT__ com a queridissima e amada linguagem __Python__ e brincando com Microcontroladores utilizando o famoso __Arduino__ programando em __C++__.
+
+- 🎓 Sou técnico em Automação Industrial pela ETEC de Embu e atualmente faço técnico em Internet das Coisas no SENAC.
 
 <br>
 
@@ -12,7 +14,7 @@
 
 ---
 
-### Linguagens conhecidas!
+### 🌎 Linguagens conhecidas!
 - Algumas das linguagens de programação e marcação que já usei:
 <div>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="40" height="40"/>
@@ -23,7 +25,7 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="40" height="40"/>
 </div>
 
-### Ferramentas/framewoks conhecidos!
+### 🛠 Ferramentas/framewoks conhecidos!
 - Alguns frameworks, ferramentas e APIs no qual conheço!
 <div>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" width="40" height="40"/>
@@ -34,7 +36,7 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="40" height="40"/> 
 </div>
 
-### Ferramentas de trabalho conhecidos!
+### 💻 Ferramentas de trabalho conhecidos!
 - Algumas IDEs no qual ja utilizei!
 <div>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="40" height="40"/>
