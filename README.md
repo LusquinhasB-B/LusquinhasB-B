@@ -48,3 +48,4 @@
 ## Projeto(s) em destaque!
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LUsquinhasB-B&repo=Web-Gurgel-Park&theme=one_dark_pro)](https://github.com/LusquinhasB-B/Web-Gurgel-Park)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LUsquinhasB-B&repo=Projeto_estacionamento_php&theme=one_dark_pro)](https://github.com/LusquinhasB-B/Projeto_estacionamento_php)
