@@ -1,7 +1,4 @@
-
-# Sobre mim!
- 
-- 🧵 Me chamo Lucas, tenho 18 anos! Decidi entrar para essa área após perceber que não seria possível cursar engenharia. Brincadeiras a parte, sempre achei essa área de desenvolvimento muito interessante no qual ja venho tendo contato desde o ensino médio, criando projetos de __IoT__ com a queridissima e amada linguagem __Python__ e brincando com Microcontroladores utilizando o famoso __Arduino__ programando em __C++__.
+- 🎮 Salve! Me chamo Lucas, tenho 18 anos! Decidi entrar para essa área após perceber que não seria possível cursar engenharia. Brincadeiras a parte, sempre achei essa área de desenvolvimento muito interessante no qual ja venho tendo contato desde o ensino médio, criando projetos de __IoT__ com a queridissima e amada linguagem __Python__ e brincando com Microcontroladores utilizando o famoso __Arduino__ programando em __C++__.
 
 - 🎓 Sou técnico em Automação Industrial na ETEC de Embu e  atualmente faço técnico em Internet das Coisas no SENAC.
 
