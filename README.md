@@ -8,8 +8,9 @@
 
 <div>
   <a href="https://github.com/LusquinhasB-B">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=LusquinhasB-B&theme=one_dark_pro"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=LusquinhasB-B&layout=compact&theme=one_dark_pro"/>
+  <img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api?username=LusquinhasB-B&theme=one_dark_pro"/>
+  <img loading="lazy" height="200em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=LusquinhasB-B&size_weight=0.5&count_weight=0.5&layout=compact&theme=one_dark_pro"/>
+  <img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api/wakatime?username=LusquinhasB_B01"/>
 </div>
 
 ---
