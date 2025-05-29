@@ -26,11 +26,12 @@
 </div>
 
 ### 🛠 Ferramentas/framewoks conhecidos!
-- Alguns frameworks, ferramentas e APIs no qual conheço!
+- Alguns frameworks e ferramentas no qual conheço/utilizei!
 <div>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" width="40" height="40"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/QT-Dark.svg" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/codeigniter-1.svg" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/373979/platformio.svg" width="40" height="40"/>
   <img src="https://www.svgrepo.com/show/353904/insomnia.svg" width="40" height="40"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="40" height="40"/> 
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="40" height="40"/> 
