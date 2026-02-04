@@ -5,22 +5,21 @@
 - 🎓 Sou técnico em Automação Industrial pela ETEC de Embu e atualmente faço técnico em Internet das Coisas no SENAC.
 
 <br>
-
-<div>
-  <a href="https://github.com/LusquinhasB-B">
-  <img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api?username=LusquinhasB-B&theme=one_dark_pro"/>
+   <a href="https://github.com/LusquinhasB-B">
+  <img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api?username=LusquinhasB-B"/>
   <img loading="lazy" height="200em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=LusquinhasB-B&size_weight=0.5&count_weight=0.5&layout=compact&theme=one_dark_pro"/>
 </div>
-
+    
 ---
 
 ### 🌎 Linguagens conhecidas!
 - Algumas das linguagens de programação e marcação que já usei:
 <div>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="40" height="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="40" height="40"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width="40" height="40"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="40" height="40"/>
-  <img src="https://static-00.iconduck.com/assets.00/sql-database-generic-icon-380x512-ez505zus.png" width="32" height="40"/>
+  <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" width="40" height="40"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="40" height="40"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="40" height="40"/>
 </div>
@@ -28,8 +27,11 @@
 ### 🛠 Ferramentas/framewoks conhecidos!
 - Alguns frameworks e ferramentas no qual conheço/utilizei!
 <div>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" width="40" height="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Dark.svg" width="40" height="40"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" width="40" height="40"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/QT-Dark.svg" width="40" height="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/codeigniter-1.svg" width="40" height="40"/>
   <img src="https://www.svgrepo.com/show/373979/platformio.svg" width="40" height="40"/>
   <img src="https://www.svgrepo.com/show/353904/insomnia.svg" width="40" height="40"/>
