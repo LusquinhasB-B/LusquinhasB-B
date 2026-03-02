@@ -3,13 +3,13 @@
 - 🎮 Me chamo Lucas, tenho 19 anos! Decidi entrar para essa área após perceber que não seria possível cursar engenharia visto meu limite cognitivo. Brincadeiras a parte, sempre achei essa área de desenvolvimento muito interessante no qual ja venho tendo contato desde o ensino médio, criando projetos de __IoT__ com a queridíssima e amada linguagem __Python__ e brincando com Microcontroladores utilizando o famoso __Arduino__ programando em __C++__.
 
 - 🎓 Sou técnico em Automação Industrial pela ETEC de Embu e atualmente faço técnico em Internet das Coisas no SENAC.
-
+<!---
 <br>
    <a href="https://github.com/LusquinhasB-B">
   <img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api?username=LusquinhasB-B"/>
   <img loading="lazy" height="200em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=LusquinhasB-B&size_weight=0.5&count_weight=0.5&layout=compact&theme=one_dark_pro"/>
 </div>
-    
+    -->
 ---
 
 ### 🌎 Linguagens conhecidas!
