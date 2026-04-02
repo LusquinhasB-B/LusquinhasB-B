@@ -1,7 +1,7 @@
 # 🏆 Um pouco sobre mim!
 
 - 💻 Me chamo Lucas, e estou iniciando minha trajetória na área de tecnologia.
-Sou técnico em Automação Industrial e em Internet das Coisas, com experiência em projetos envolvendo IoT, Python e microcontroladores como ESP32 e arduino.
+Sou técnico em Automação Industrial e cursei técnio em Internet das Coisas, com experiência em projetos envolvendo IoT, Python e microcontroladores como ESP32 e arduino.
 
  - 💡 Atualmente, venho estudando Cloud Computing com foco em AWS e iniciando meus estudos em análise de dados, buscando evoluir constantemente na área.
 <br>
